@@ -1,0 +1,10 @@
+d:\users\lucyna\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+d:\users\lucyna\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+d:\users\lucyna\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+d:\users\lucyna\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+d:\users\lucyna\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+d:\users\lucyna\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+d:\users\lucyna\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\Json.dll
+d:\users\lucyna\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\Newtonsoft.Json.dll
+d:\users\lucyna\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\Json.pdb
+d:\users\lucyna\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\Newtonsoft.Json.xml
